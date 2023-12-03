@@ -1,0 +1,13 @@
+.header{
+    background-color: #111d13;
+}
+.header ul{
+    display: flex;
+    flex-direction: row;
+    color: #a1cca5;
+    list-style: none;
+    justify-content: space-between;
+    font-weight: bolder;
+    font-size: 2rem;
+    padding: .75rem 2rem;
+}
